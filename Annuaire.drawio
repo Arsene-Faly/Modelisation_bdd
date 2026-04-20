@@ -197,6 +197,22 @@
         <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Role (admin, user, propriété)" vertex="1">
           <mxGeometry height="30" width="160" x="220" y="220" as="geometry" />
         </mxCell>
+        <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-28" edge="1" parent="1" source="Liy7uZRynd-zZmQ4O8wS-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZYPuh3ffMLOfR-dQhJrJ-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="470" as="sourcePoint" />
+            <mxPoint x="300" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-29" connectable="0" parent="ZYPuh3ffMLOfR-dQhJrJ-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.9178" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-30" connectable="0" parent="ZYPuh3ffMLOfR-dQhJrJ-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.8614" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
