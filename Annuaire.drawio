@@ -194,6 +194,16 @@
             <mxPoint x="920" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-31" connectable="0" parent="ZYPuh3ffMLOfR-dQhJrJ-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.9253" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-32" connectable="0" parent="ZYPuh3ffMLOfR-dQhJrJ-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.8727" y="-3" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZYPuh3ffMLOfR-dQhJrJ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Role (admin, user, propriété)" vertex="1">
           <mxGeometry height="30" width="160" x="220" y="220" as="geometry" />
         </mxCell>
